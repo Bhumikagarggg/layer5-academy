@@ -20,7 +20,7 @@ It is built with [Hugo](https://gohugo.io/) and integrated into a multi-reposito
 - [Related Repositories](#-related-repositories)
 - [Quick Start (Local Preview)](#-quick-start-local-preview)
 - [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
+- [Contributing](#co ntributing)
 - [Publishing](#publishing)
 - [Resources](#resources)
 
