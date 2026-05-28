@@ -21,7 +21,7 @@ It is built with [Hugo](https://gohugo.io/) and integrated into a multi-reposito
 - [Quick Start (Local Preview)](#-quick-start-local-preview)
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
-- [Publishing](#publishing)
+- [Publishing](#pu blishing)
 - [Resources](#resources)
 
 ---
